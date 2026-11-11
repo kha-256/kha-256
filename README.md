@@ -1,63 +1,58 @@
-[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)](https://github.com/kha-256)
-<h1 align="center">Hi 👋, I'm Khadija Noor Hashmi</h1>
-<h3 align="center">Full Stack Software Engineer | Web, Mobile & Backend</h3>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kha-256" alt="Khadija Noor Hashmi" /> </p>
-- ⚡ Fun fact **I think I am not funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khadija-noor-hashmi-945805233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadija-noor-hashmi-945805233" height="30" width="40" /></a>
-<a href="https://github.com/kha-256" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="kha-256" height="40" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:06b6d4&height=180&section=header&text=Khadija%20Noor%20Hashmi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Web%2C%20Mobile%20%26%20Backend&descSize=16&descAlignY=60" alt="Khadija Noor Hashmi" />
 </p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<h3 align="center">Hi 👋, I'm Khadija</h3>
 
-### Frontend & Mobile  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" /></a>  
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://reactnative.dev/img/header_logo.svg" alt="React Native" height="80" /></a> 
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original-wordmark.svg" alt="TypeScript" height="80" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux Toolkit" height="80" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="80" /></a>  
-<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="80" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="80" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="80" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="80" /></a>  
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kha-256&label=Profile%20views&color=4f46e5&style=flat" alt="Profile views" />
+</p>
 
-</td><td valign="top" width="33%">
+- ⚡ Fun fact: **I think I am not funny**
 
-### Backend & Databases  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="80" /></a>  
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/fastapi.png" alt="FastAPI" height="80" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="80" /></a>  
-<a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sqlite-original-wordmark.svg" alt="SQLite" height="80" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="80" /></a>  
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/khadija-noor-hashmi-945805233"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/kha-256"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-</td><td valign="top" width="33%">
+## 🛠️ My Skill Set
 
-### DevOps & Tools  
-<div align="center">  
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" /></a>  
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vscode.png" alt="VS Code" height="80" /></a>  
-</div>
+### Frontend & Mobile
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-</td></tr></table>  
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
 
-<br/>  
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kha-256&theme=algolia&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 📊 GitHub Stats
 
-<br/>   
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kha-256&theme=algolia&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kha-256&theme=algolia&layout=compact&hide_border=true" alt="Top languages" />
+</p>
 
-<div align="center"><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kha-256&theme=algolia&show_icons=true&locale=en&layout=compact" alt="KhadijaNoorHashmi" /></p> </div>
-
-<br/> 
-
-<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kha-256&theme=algolia" alt="KhadijaNoorHashmi" /></p> </div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kha-256&theme=algolia&hide_border=true" alt="GitHub streak" />
+</p>
